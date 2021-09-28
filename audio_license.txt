@@ -1,0 +1,6 @@
+'score.ogg' = 'Knife Party like Kick.wav' by nabz871 @ https://freesound.org/people/nabz871/sounds/192512/ (CC0)
+'bounce.ogg' = 'Jump_C_05' by cabled_mess @ https://freesound.org/people/cabled_mess/sounds/350905/ (CC0)
+'boo.ogg' = 'Boo 5 only a couple people.wav' by jayfrosting @ https://freesound.org/people/jayfrosting/sounds/333393/ (CC0)
+'track1.ogg' = 'Synthwave.wav' by Daniel-ms @ https://freesound.org/people/Daniel-ms/sounds/550337/ (CC0)
+'track2.ogg' = 'Synth.wav' by Nadia4Sound @ https://freesound.org/people/Nadia4Sound/sounds/439215/ (CC0)
+'track3.ogg' = '2018-09-05' by Doctor_Dreamchip @ https://freesound.org/people/Doctor_Dreamchip/sounds/457899/ (CC0)
